@@ -7,7 +7,7 @@ The Minecraft Overviewer
 ========================
 
 See also the `Github Homepage`_ and the `Updates Blog`_, and follow us on
-our `Twitter account`_
+our `Twitter account`_.
 
 .. _Github Homepage: https://github.com/overviewer/Minecraft-Overviewer
 
@@ -53,7 +53,7 @@ Documentation Contents
 Features
 ========
 
-* Renders high resolution images of your world, let's you "deep zoom" and see
+* Renders high resolution images of your world, lets you "deep zoom" and see
   details!
 
 * Gloriously awesome smooth lighting is here!

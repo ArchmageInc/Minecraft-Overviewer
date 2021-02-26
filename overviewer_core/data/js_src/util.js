@@ -714,7 +714,7 @@ overviewer.util = {
         // save this info is a nice easy to parse format
         var newHash = "#/" + Math.floor(x) + "/" + Math.floor(y) + "/" + Math.floor(z) + "/" + zoom + "/" + encodeURI(w) + "/" + encodeURI(maptype);
         overviewer.util.lastHash = newHash; // this should not trigger initHash
-        window.location.replace(newHash);
+        window.location.hash = newHash;
     },
     'updateHash': function() {
         // name of current world
